@@ -1,2 +1,2 @@
 # goit-js-hw-10
-Homework #10 for JS Block
+Homework #10 in JS Block
